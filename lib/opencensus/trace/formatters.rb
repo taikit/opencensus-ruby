@@ -16,6 +16,7 @@
 require "opencensus/trace/formatters/binary"
 require "opencensus/trace/formatters/cloud_trace"
 require "opencensus/trace/formatters/trace_context"
+require "opencensus/trace/formatters/b3"
 
 module OpenCensus
   module Trace
